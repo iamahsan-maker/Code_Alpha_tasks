@@ -1,0 +1,24 @@
+.bg-red{
+    background: #ff1c1c;
+    color: #fff;
+}
+
+.bg-blue{
+    background: linear-gradient(135deg, #3b087c, #0e54eb);
+    color: #fff;
+}
+
+.bt{
+    width: 235px;
+    height: 95px;
+}
+
+.border{
+    border: 1px solid #000000;
+    width: 105px;
+    height: 95px;
+    font-size: 30px;
+    background-color:transparent;
+    border-radius: 10px;
+    /* box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1); */
+}
